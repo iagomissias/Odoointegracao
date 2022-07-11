@@ -1,0 +1,4 @@
+[submodule "Smile-SA/odoo_addons"]
+	path = Smile-SA/odoo_addons
+	url = git@github.com:Smile-SA/odoo_addons.git
+	branch = 15.0
